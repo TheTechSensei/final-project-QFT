@@ -1,0 +1,17 @@
+pandas
+plotly
+qiskit
+qiskit-aer
+qiskit-ibm-provider
+qiskit-ibm-runtime
+scipy
+ipykernel
+scikit-learn
+matplotlib
+statsmodels
+nbformat
+python-dotenv
+jupyter
+matplotlib-venn
+seaborn
+numpy

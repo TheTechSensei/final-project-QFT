@@ -1,0 +1,5 @@
+# Environment
+quantum-qft-env/
+
+# Environment variables
+.env
